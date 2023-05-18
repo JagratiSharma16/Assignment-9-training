@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(rgb(199, 174, 174), rgba(0, 0, 0, 0.0)),url(wood2.jpg);
+    background: linear-gradient(rgb(199, 174, 174), rgba(0, 0, 0, 0.0)),url(wood4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -22,7 +22,7 @@ main {
 
 .form {
     margin-top: 80px;
-    border: 9px solid #958aaa;
+    border: 9px solid #b9aece;
     padding: 7px 70px 20px 70px;
     background-color: #f2ddb0d3;
     border-radius: 90px;
